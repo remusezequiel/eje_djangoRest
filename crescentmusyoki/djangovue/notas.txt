@@ -1,0 +1,22 @@
+El entorno es el que le corresponde a esta carpeta
+
+vuejs templates -> github con información
+
+Hay que asegurarse de tener node.js instalado
+
+
+para crear un proyecto con vue debemos correr el siguiente comando
+
+vue init webpack-simple nombredelproyecto
+
+Luego, entramos a la carpeta del proyecto creado y corremos el siguiente comando
+
+npm install
+
+
+
+
+
+instalaciones :
+
+pip install django-webpack-loader
